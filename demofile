@@ -22,7 +22,7 @@ pipeline {
 
                 // Use Maven to build your project
 
-                echo "Build Stage"
+                echo "Build Stage  gffggf"
 
             }
 
