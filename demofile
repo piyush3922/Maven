@@ -10,7 +10,7 @@ pipeline {
         stage('Build') {
             steps {
                 // Use Maven to build your project
-                echo "Build Stage PKPKPK"
+                echo "Build Stage PKPKPK SINGHSINGH"
             }
         }
         stage('Test') {
